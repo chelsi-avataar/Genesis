@@ -15,12 +15,8 @@
     "npm packages",
     "boilerplate"
   ],
-  "author": "Dale Nguyen",
+  "author": "Chelsi Agrawal",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
-  },
   "devDependencies": {
     "@types/chai": "^4.2.22",
     "@types/mocha": "^9.0.0",
@@ -34,8 +30,5 @@
   "dependencies": {},
   "engines": {
     "node": ">=8"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dalenguyen"
   }
 }
